@@ -4,9 +4,9 @@
 - :seedling:Estudando ReactJs
 ##
 <div align="center">
-<a href="https://www.linkedin.com/in/thiago-oliveira-k-on/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-kon&show_icons=true&include_all_comits=true&theme=tokyonight&count_private=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-kon&layout=compact&langs_count=16&theme=tokyonight" />
+<a href="https://github.com/Thiago-kon">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Thiago-kon&show_icons=true&include_all_comits=true&theme=tokyonight&count_private=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-kon&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 <div><br>
