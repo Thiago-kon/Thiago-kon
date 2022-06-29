@@ -1,7 +1,7 @@
 ## Ola! Eu sou o Thiago Oliveira 
 
 - :briefcase: Hoje trabalho como full stack
-- :seedling:Estudando ReactJs
+- :seedling:Estudando ReactJs, Unity
 ##
 <div align="center">
 <a href="https://github.com/Thiago-kon">
