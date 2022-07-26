@@ -2,7 +2,7 @@
 
 - :briefcase: Hoje trabalho como full stack
 - :seedling:Estudando ReactJs, Unity
-- 💬 <a href="https://www.efset.org/cert/CPFfaB" target="_blank">Avançado</a>
+- 💬 <a href="https://www.efset.org/cert/CPFfaB" target="_blank">Inglês - Avançado</a>
 ##
 <div align="center">
 <a href="https://github.com/Thiago-kon">
